@@ -1,0 +1,17 @@
+#user-info {
+    background-color: #f9f9f9; /* Light gray background for contrast */
+    border: 1px solid #ddd; /* Light border to define the section */
+    padding: 20px; /* Padding inside the section */
+    margin: 20px 0; /* Margin around the section */
+    text-align: center; /* Center the text for uniformity */
+}
+
+#user-info h2 {
+    font-family: 'Roboto', sans-serif; /* Stylish font for headings */
+    color: #333; /* Dark text color */
+}
+
+#user-info p {
+    font-size: 1.2em; /* Slightly larger font for paragraph text */
+    color: #555; /* Darker gray text color for readability */
+}
